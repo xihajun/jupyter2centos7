@@ -10,3 +10,7 @@ mode=silent
 
 
 https://www.mathworks.com/matlabcentral/answers/332057-how-to-install-matlab-on-linux-environment-with-no-gui
+
+
+cd "matlabroot\extern\engines\python"
+python setup.py install
