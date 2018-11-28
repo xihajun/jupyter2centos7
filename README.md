@@ -14,3 +14,6 @@ https://www.mathworks.com/matlabcentral/answers/332057-how-to-install-matlab-on-
 
 cd "matlabroot\extern\engines\python"
 python setup.py install
+
+download 
+http://installfights.blogspot.com/2016/11/how-to-install-matlab-without-gui.html
